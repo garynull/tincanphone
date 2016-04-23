@@ -1,5 +1,5 @@
 /*
-	(C) 2016 Gary Sinitsin. See LICENSE.txt (MIT license).
+	(C) 2016 Gary Sinitsin. See LICENSE file (MIT license).
 */
 #include "Window.h"
 #include "../Phone.h"
