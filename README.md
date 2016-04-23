@@ -6,8 +6,8 @@ A simple C++ program I wrote to demonstrate peer-to-peer VOIP, for Linux and Win
 
 # Precompiled binaries
 
-Windows: http://garysinitsin.com/tincanphone.exe  
-Linux: http://garysinitsin.com/tincanphone_0.1-1_amd64.deb
+Windows: [tincanphone.exe](http://garysinitsin.com/tincanphone.exe)  
+Linux: [tincanphone_0.1-1_amd64.deb](http://garysinitsin.com/tincanphone_0.1-1_amd64.deb)
 
 
 # How to use it
