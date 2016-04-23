@@ -1,6 +1,7 @@
 # Tin Can Phone
 
 A simple C++ program I wrote to demonstrate peer-to-peer VOIP, for Linux and Windows.
+[![Screenshot](http://garysinitsin.com/projects/tincanphonet.png)](http://garysinitsin.com/projects/tincanphone.png)
 
 
 # Precompiled binaries
