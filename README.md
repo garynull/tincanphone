@@ -48,4 +48,4 @@ Although care was taken to create a usable application, some things were left ou
 
 # License
 
-MIT licensed open source; see LICENSE.txt. If you use this code for something cool, letting me know would be appreciated but it's not required.
+MIT licensed open source; see the LICENSE file. If you use this code for something cool, letting me know would be appreciated but it's not required.
